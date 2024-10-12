@@ -1,6 +1,6 @@
 # CalculatorKotlin 
 
-A simple calculator for android
+A simple calculator for Android
 
 
 
