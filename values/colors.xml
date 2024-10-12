@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom colors -->
+    <color name="button_background">#E0E0E0</color> <!-- General button background -->
+    <color name="button_text">#000000</color> <!-- General button text color -->
+    <color name="operator_background">#35C842</color> <!-- +, -, *, / -->
+    <color name="special_button_background">#C83F6E</color> <!--  AC, +/- -->
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="dark_blue">#5362BA</color>
+</resources>
